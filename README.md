@@ -3,7 +3,7 @@ It is a restful api connected with mysql to create schemas, there are 2 endpoint
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="https://miro.medium.com/v2/resize:fit:600/1*ljHUhFnaBissdRBe7DIo6g.png" alt="Logo" height="80">
   </a>
 
